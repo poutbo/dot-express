@@ -1,0 +1,27 @@
+{
+  "name": "dot-express",
+  "version": "0.0.1",
+  "description": "express template engine dotjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poutbo/dot-express.git"
+  },
+  "keywords": [
+    "dot",
+    "dotjs",
+    "express"
+  ],
+  "author": "poutbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poutbo/dot-express/issues"
+  },
+  "homepage": "https://github.com/poutbo/dot-express",
+  "dependencies": {
+    "dot": "^1.0.2"
+  }
+}
